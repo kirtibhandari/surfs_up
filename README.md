@@ -31,6 +31,7 @@ Probably this is the most comfortable temperature in which to surf. The 80s can 
  **a. June Precipitation Query**
 
 ![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Code_snippet_Query_1.png)
+ 
  **b. December Precipitation Query**
 
 ![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Code_Snippet_Query_2.png)
