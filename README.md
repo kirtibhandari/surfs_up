@@ -6,7 +6,7 @@ This analysis is conducted to assist the client in determining the feasibility o
 This particular analysis is conducted to provide more information to the investor about temperature trends before opening the surf shop. He specifically wants temperature data to be analysed for th months of June and December. In this way, the investor would be able to decide whether the proposed business idea is sustainable year-round.
 ## **Results:**
 
-![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Summary_Statistics.png)
+![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Summary_Stats.png)
 
 From the Summary statistics obtained as above from the available data for the month of June and December, we have the following three major points of observation:
  - Average temperature for both the months, differs only by 3.9 units approximately.
@@ -30,12 +30,12 @@ Probably this is the most comfortable temperature in which to surf. The 80s can 
  
  **a. June Precipitation Query**
 
-![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Query_1.png)
+![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Code_snippet_Query_1.png)
  **b. December Precipitation Query**
 
-![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Query_2.png)
+![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Code_Snippet_Query_2.png)
 
-![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Summary_Statistics_for_Precipitation.png)
+![](https://github.com/kirtibhandari/surfs_up/blob/main/Resources/Summary_Stats_for_Precipitation.png)
 
 The above two queries and the results in Summary would enable us to provide more insights into weather data for months of June and December.
 
